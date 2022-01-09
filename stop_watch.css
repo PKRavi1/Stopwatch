@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background-color: rgb(66, 11, 129);
     display:flex;justify-content: center;align-items: center;
     width:100vw;
     height: 100vh;
@@ -8,9 +8,9 @@ body{
 }
 
 .wrapper{
-    color:burlywood;
+    color:rgb(209, 129, 97);
     text-align: center;
-    background-color: rgb(54, 197, 19);
+    background-color: rgb(129, 29, 99);
     padding:20px;
     border-radius: 12px;
     letter-spacing: 4px;
